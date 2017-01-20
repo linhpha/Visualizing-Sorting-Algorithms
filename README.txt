@@ -1,9 +1,6 @@
-# CSC 207 (Fall 2016) Homework 5
-
-The Sounds of Sorting 
+Visualizing sorting algorithms
 
 JaeEun Oh (ohjaeeun) and Linh Pham (phamlinh)
-
 Program that builds both a visualizer and audiobilizer using various sorting algorithms. 
 
 The sorting algorithms we implemented are: 
